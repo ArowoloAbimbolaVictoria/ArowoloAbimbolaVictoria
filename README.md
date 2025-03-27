@@ -2,11 +2,11 @@
 ## 👋 Welcome To My GitHub Page
 # 💫 About Me:
 
-- 👩‍💻 I'm a data analyst with proficiency in data analysis tools such as Microsoft Excel, Google Sheets, SQL, Power BI, and Tableau.<br>
+- 👩‍💻 I'm a data analyst with proficiency in data analysis tools such as Microsoft Excel, Google Sheets, SQL, Power BI, Tableau and Python.<br>
 
 - ⚜️ I have strong problem-solving, critical thinking, and communication skills, as well as the ability to collaborate and work well in a team.<br>
 
-- ☑️ I have experience as a freelance data analyst, with projects involving data cleaning, statistical analysis, data visualization, and reporting.<br>
+- ☑️ I have experience as a Data Analyst, with projects involving data cleaning, statistical analysis, data visualization, and reporting.<br>
 
 - 👩🏻‍🤝‍👨🏽 I'm looking to collaborate on data analysis jobs and projects that allow me to apply my skills and expertise to help organizations make data-driven decisions<br>
 
