@@ -100,7 +100,7 @@ I bring a mix of technical skill, critical thinking, and clear communication to 
 - Awarded as one of the Top 10 Data Professionls in Africa by TIBA Awards
 - Recognized as a **Microsoft MVP** for impact in the data community
 
----
+<h3><u>Let's Collaborate 🤝</u></h3>
 
 I'm open to new opportunities, freelance, full-time, or collaborative.  
 If you're working on something exciting in data, education, or tech for impact, I’d love to connect and explore how we can work together.  
@@ -114,7 +114,6 @@ Let’s build, grow, and make meaningful impact — together!
 - [YouTube](http://www.youtube.com/@techie_vikiola)  
 - 📧 [Email](arowoloabimbola04@gmail.com)
 
----
 
 > _“I don’t just analyze data — I turn it into stories that drive smart decisions.”_
 
