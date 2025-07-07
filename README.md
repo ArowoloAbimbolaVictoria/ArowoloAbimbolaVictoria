@@ -106,6 +106,8 @@ I'm open to new opportunities, freelance, full-time, or collaborative.
 If you're working on something exciting in data, education, or tech for impact, I’d love to connect and explore how we can work together.  
 Let’s build, grow, and make meaningful impact — together!
 
+---
+
 ### 📬 Let’s Connect
 
 - [LinkedIn](https://www.linkedin.com/in/arowoloabimbola)  
