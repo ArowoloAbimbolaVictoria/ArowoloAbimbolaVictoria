@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋🏽, I'm Abimbola Arowolo</h1>
-<h3 align="center">Data Analyst | Microsoft Excel MVP | Educator | Tech Enthusiast</h3>
+<h3 align="center">Data Analyst | Microsoft MVP | Educator | Tech Enthusiast</h3>
 
 ---
 
