@@ -4,10 +4,8 @@
 ---
 
 ### 👩🏽‍💻 About Me
+I'm a results-driven data analyst with a passion for simplifying complex data and making it actionable. I’ve helped individuals, startups, and teams use data to make smarter decisions — whether it’s understanding customers, tracking performance, or identifying opportunities. I transform raw data into clear, actionable insights that drive business decisions. With experience working across industries like sales, HR, finance, and healthcare, I’ve delivered impactful projects using tools like Excel, Power BI, SQL, and Python. I’m passionate about using data to solve real problems, whether it’s identifying trends, building dashboards, or helping teams make sense of complex information. Beyond analysis, I also teach and mentor data professionals, making technical concepts simple and practical through workshops, online content, and hands-on training. I bring a mix of technical skill, critical thinking, and clear communication to every project I work on.
 
-I'm a results-driven **Data Analyst** with a passion for simplifying complex data and making it actionable.  
-I’ve helped individuals, startups, and teams use data to make smarter decisions — whether it’s understanding customers, tracking performance, or identifying opportunities.
-I transforms raw data into clear, actionable insights that drive business decisions. With experience working across industries like sales, HR, finance, and healthcare, I’ve delivered impactful projects using tools like Excel, Power BI, SQL, and Python. I’m passionate about using data to solve real problems, whether it’s identifying trends, building dashboards, or helping teams make sense of complex information. Beyond analysis, I also teach and mentor data professionals, making technical concepts simple and practical through workshops, online content, and hands-on training. I bring a mix of technical skill, critical thinking, and clear communication to every project I work on.
 ---
 
 ### 🧠 Skills & Tools
