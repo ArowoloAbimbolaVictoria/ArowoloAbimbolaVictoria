@@ -4,7 +4,7 @@
 ---
 
 ### 👩🏽‍💻 About Me
-I'm a results-driven data analyst with a passion for simplifying complex data and making it actionable. I’ve helped individuals, startups, and teams use data to make smarter decisions — whether it’s understanding customers, tracking performance, or identifying opportunities. I transform raw data into clear, actionable insights that drive business decisions. With experience working across industries like sales, HR, finance, and healthcare, I’ve delivered impactful projects using tools like Excel, Power BI, SQL, and Python. I’m passionate about using data to solve real problems, whether it’s identifying trends, building dashboards, or helping teams make sense of complex information. Beyond analysis, I also teach and mentor data professionals, making technical concepts simple and practical through workshops, online content, and hands-on training. I bring a mix of technical skill, critical thinking, and clear communication to every project I work on.
+I'm a results-driven data analyst with a passion for simplifying complex data and making it actionable. I’ve helped individuals, startups, and teams use data to make smarter decisions, whether it’s understanding customers, tracking performance, or identifying opportunities. I transform raw data into clear, actionable insights that drive business decisions. With experience working across industries like sales, HR, finance, and healthcare, I’ve delivered impactful projects using tools like Excel, Power BI, SQL, and Python. I’m passionate about using data to solve real problems, whether it’s identifying trends, building dashboards, or helping teams make sense of complex information. Beyond analysis, I also teach and mentor data professionals, making technical concepts simple and practical through workshops, online content, and hands-on training. I bring a mix of technical skill, critical thinking, and clear communication to every project I work on.
 
 ---
 
@@ -37,8 +37,7 @@ I'm a results-driven data analyst with a passion for simplifying complex data an
 - Notion, Trello, Slack  
 - Canva, Figma
 
-### Soft Skills 🌟
-
+**Soft Skills 🌟**
 - Communication & Public Speaking  
 - Teaching & Mentorship  
 - Leadership & Team Collaboration  
@@ -99,7 +98,7 @@ I'm a results-driven data analyst with a passion for simplifying complex data an
 
 ---
 
-I'm open to new opportunities — freelance, full-time, or collaborative.  
+I'm open to new opportunities, freelance, full-time, or collaborative.  
 If you're working on something exciting in data, education, or tech for impact, I’d love to connect and explore how we can work together.  
 Let’s build, grow, and make meaningful impact — together!
 
@@ -114,7 +113,6 @@ Let’s build, grow, and make meaningful impact — together!
 ---
 
 > _“I don’t just analyze data — I turn it into stories that drive smart decisions.”_
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
