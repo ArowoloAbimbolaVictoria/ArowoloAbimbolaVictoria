@@ -1,126 +1,121 @@
-### Hi there 
-## 👋 Welcome To My GitHub Page
-# 💫 About Me:
-
-- 👩‍💻 I'm a data analyst with proficiency in data analysis tools such as Microsoft Excel, Google Sheets, SQL, Power BI, Tableau and Python.<br>
-
-- ⚜️ I have strong problem-solving, critical thinking, and communication skills, as well as the ability to collaborate and work well in a team.<br>
-
-- ☑️ I have experience as a Data Analyst, with projects involving data cleaning, statistical analysis, data visualization, and reporting.<br>
-
-- 👩🏻‍🤝‍👨🏽 I'm looking to collaborate on data analysis jobs and projects that allow me to apply my skills and expertise to help organizations make data-driven decisions<br>
-
-- 💠 I post valuable data-related content on [Medium](https://medium.com/@arowoloabimbola04/) and [Twitter](https://twitter.com/ViikiOla?t=pDf42MNykidB_Spr_Aq9ug&s=09)<br> 
-
-- 🍭 Connect with me on [Linkedln](https://www.linkedin.com/in/abimbola-arowolo)<br>
-
-
 <h1 align="center">Hi there 👋🏽, I'm Abimbola Arowolo</h1>
 <h3 align="center">Data Analyst | Microsoft Excel MVP | Educator | Tech Enthusiast</h3>
 
 ---
 
-### 🚀 About Me
+### 👩🏽‍💻 About Me
 
-I'm a **results-driven Data Analyst** with a strong foundation in data storytelling, business intelligence, and technical training.  
-I've spent the last few years transforming messy datasets into clean insights that drive business decisions — from product trends to customer behavior.  
-Also, I teach. A lot.  
-Whether it's live bootcamps, workshops, or online content — I’m passionate about making data analysis simple, practical, and *fun*.
+I'm a results-driven **Data Analyst** with a passion for simplifying complex data and making it actionable.  
+I’ve helped individuals, startups, and teams use data to make smarter decisions — whether it’s understanding customers, tracking performance, or identifying opportunities.
+I transforms raw data into clear, actionable insights that drive business decisions. With experience working across industries like sales, HR, finance, and healthcare, I’ve delivered impactful projects using tools like Excel, Power BI, SQL, and Python. I’m passionate about using data to solve real problems, whether it’s identifying trends, building dashboards, or helping teams make sense of complex information. Beyond analysis, I also teach and mentor data professionals, making technical concepts simple and practical through workshops, online content, and hands-on training. I bring a mix of technical skill, critical thinking, and clear communication to every project I work on.
+---
+
+### 🧠 Skills & Tools
+
+**Languages & Scripting**  
+- SQL (PostgreSQL, MySQL, T-SQL)  
+- Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly)  
+- R (basic)  
+- DAX  
+- M (Power Query)
+
+**Data Analysis & Visualization**  
+- Microsoft Excel (Advanced, Power Pivot, Power Query)  
+- Power BI  
+- Tableau  
+- Google Sheets  
+- Looker Studio  
+
+**Data Cleaning & Processing**  
+- Excel Power Query  
+- Python (Data Wrangling with Pandas)  
+- CSV, JSON, XML  
+- ETL pipelines (manual + semi-automated)
+
+**Business & Collaboration Tools**  
+- Git & GitHub  
+- Jupyter Notebook  
+- Microsoft 365 (Word, PowerPoint, Teams)  
+- Notion, Trello, Slack  
+- Canva, Figma
+
+### Soft Skills 🌟
+
+- Communication & Public Speaking  
+- Teaching & Mentorship  
+- Leadership & Team Collaboration  
+- Problem-Solving & Decision-making  
+- Critical Thinking  
+- Adaptability & Resilience  
+- Project Management  
+- Time Management  
+- Cultural Competency  
+- Attention to Detail  
+- Empathy & Emotional Intelligence 
+
+**Other**  
+- Technical Writing  
+- Curriculum Design  
+- Public Speaking  
+- Mentoring & Coaching  
 
 ---
 
-### 💡 Skills & Tools
+### Data Analytics Projects 📚
 
-**Languages & Querying**
-- SQL (PostgreSQL, MySQL, T-SQL)
-- DAX
-- Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly)
-- R (basic)
-- M Language (Power Query)
+- **SQL Projects**  
+  In this repository, you will find projects completed in PostgreSQL, SQL Server, and MySQL.
 
-**Data Analysis & Visualization**
-- Microsoft Excel (Advanced + MVP)
-- Power BI (Data Modeling, DAX, Reports)
-- Tableau
-- Google Looker Studio
-- Google Sheets
+- **Power BI Projects**  
+  This repository hosts all projects completed in Power BI, including dashboards on sales, healthcare, and customer behavior.
 
-**Data Engineering / Cleaning**
-- Power Query (ETL in Excel & Power BI)
-- Python for Data Wrangling
-- Excel Power Pivot
-- CSV/JSON/XML handling
+- **Excel Projects**  
+  In this repository, you will find all projects completed in Microsoft Excel, including advanced dashboards and data automation.
 
-**Tools & Platforms**
-- Jupyter Notebook
-- VS Code
-- Git & GitHub
-- Notion, Trello, Slack
-- Microsoft 365 Suite
-- Canva, Figma (for content)
+  - **Python Projects**  
+  This repository contains all projects completed in Python.
 
-**Other Highlights**
-- Data Documentation
-- Business Process Analysis
-- Curriculum Design (for data/tech learning)
-- Public Speaking & Presentation
-- Technical Mentoring & Coaching
+- **Looker Studio Projects**  
+  This repository contains all projects completed in Google Looker Studio for web analytics and marketing insights.
+
+- **AWS Projects**  
+  This repository hosts projects using AWS services such as Amazon QuickSight for interactive reporting.
+
+- **Tableau Projects**  
+  In this repository, you will find projects completed in Tableau, focused on business performance and storytelling with data.
+
+- **Data Analytics Tips**  
+  Here, I share personal tips related to Data Analytics — including tools I use, career advice, and what has worked best for me so far.
 
 ---
 
-### 📌 Featured Projects
+### 🎓 Teaching & Impact
 
-> A few things I’ve worked on to solve real problems or teach real concepts.
-
-- **Sales Analysis Dashboard – Excel**  
-  Visualized monthly, quarterly, and regional sales trends to guide strategic decisions.
-
-- **Customer Churn Prediction – Python**  
-  Used logistic regression to classify potential churners, reducing guesswork for retention teams.
-
-- **COVID-19 Nigeria Data Tracker – Excel + Power BI**  
-  Analyzed cases, deaths, and recovery rates with slicers and time-series visuals.
-
-- **Bank Account Analysis – Python + Excel**  
-  Combined sentiment scores with transactional data to recommend product improvements.
-
-- **Power BI Portfolio – Public Reports**  
-  Clean, interactive dashboards exploring e-commerce, marketing, and healthcare datasets.
-
-- **Beginner SQL Projects**  
-  Real-world queries: joins, aggregates, subqueries, and window functions explained clearly.
+- Trained over **1,000+ people** in data analytics (Excel, SQL, Power BI, etc.)  
+- Mentored 100+ of data professionals on real-world skills and job readiness. 
+- Created data-driven curricula for tech bootcamps and online courses
+- Ranked No1 Data Science Creator by favikon in year 2024 & 2025 
+- Panelist/speaker at events
+- Awarded as one of the Top 10 Data Professionls in Africa by TIBA Awards
+- Recognized as a **Microsoft MVP** for impact in the data community
 
 ---
 
-### 🧑🏽‍🏫 Teaching & Impact
-
-- Taught **over 1,000+ people** the fundamentals of data analysis through bootcamps, workshops, and live sessions.
-- Mentored aspiring analysts on tools like Excel, SQL, Power BI, and job-readiness.
-- Created custom learning paths for beginners to transition into tech smoothly.
-- Recognized as a **Microsoft Excel MVP** for community contributions and impact.
-
----
-
-### 📈 Current Focus
-
-- Helping aspiring and junior data analysts grow faster (through resources + mentorship)
-- Refining my Python and A/B testing workflows for product analytics
-- Collaborating with tech communities and content creators across Africa
-- Making data less intimidating, one project at a time 😄
-
----
+I'm open to new opportunities — freelance, full-time, or collaborative.  
+If you're working on something exciting in data, education, or tech for impact, I’d love to connect and explore how we can work together.  
+Let’s build, grow, and make meaningful impact — together!
 
 ### 📬 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/arowoloabimbola)
-- [Twitter](https://twitter.com/abimbola_arow)
-- [Medium](https://medium.com/@arowoloabimbola04)
-- [YouTube](https://www.youtube.com/@techsavia)
-- Email: arowoloabimbola04@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/arowoloabimbola)  
+- [Twitter](https://x.com/abimbolarowolo?s=21)  
+- [Medium](https://medium.com/@arowoloabimbola04)  
+- [YouTube](http://www.youtube.com/@techie_vikiola)  
+- 📧 [Email](arowoloabimbola04@gmail.com)
 
 ---
 
-> ⚡️ _“I don’t just analyze data — I turn it into stories that drive decisions.”_
+> _“I don’t just analyze data — I turn it into stories that drive smart decisions.”_
 
 
 
