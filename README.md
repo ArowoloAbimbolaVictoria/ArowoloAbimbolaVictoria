@@ -73,7 +73,7 @@ I bring a mix of technical skill, critical thinking, and clear communication to 
 - **Excel Projects**  
   In this repository, you will find all projects completed in Microsoft Excel, including advanced dashboards and data automation.
 
-  - **Python Projects**  
+- **Python Projects**  
   This repository contains all projects completed in Python.
 
 - **Looker Studio Projects**  
